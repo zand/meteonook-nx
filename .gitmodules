@@ -1,0 +1,3 @@
+[submodule "MeteoNook"]
+	path = MeteoNook
+	url = https://github.com/Treeki/MeteoNook.git

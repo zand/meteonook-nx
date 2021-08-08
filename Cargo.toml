@@ -1,0 +1,15 @@
+[package]
+name = "meteonook-nx"
+version = "0.1.0"
+authors = ["Chris Butler <git@zand.dev>"]
+edition = "2018"
+
+[lib]
+name = "meteonook"
+crate-type = ["staticlib"]
+
+[dependencies]
+
+[build-dependencies]
+cbindgen = "0.20.0"
+
